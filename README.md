@@ -12,13 +12,13 @@
 
 </div>
 
-<h2>📚 &nbsp;En camino a convertirme en un desarrollador web</h2>
+<h2>📚 &nbsp;I'm on my way to becoming a web developer</h2>
 
-Soy estudiante de ingieneria de Software de manera autodidacta, actualmente me encuentro estudiando HTML, CSS y JavaScript, aun asi me apaciona seguir aprendiendo mas tecnologias.
+I am a self-taught software engineering student, currently studying HTML, CSS, and JavaScript. I am still passionate about learning more technologies.
 
-Mi meta es ser Full-Stack Developer, pero no siempre fue asi, todo comenzo gracias al gran interes que tengo en las criptomonedas, y en querer aprender como funcionan. De ahi mi iniciativa por aprender a crear soluciones para las personas.
+My goal is to be a Full-Stack Developer, but it wasn't always like that. It all started thanks to my great interest in cryptocurrencies, and in wanting to learn how they work. From there, my initiative to learn how to create solutions for people came.
 
-En este momento aun no me considero acto para un empleo, pero si necesitan ayuda con algun bug o quieren tomar la iniciativa de contactarme, abajo dejare mis redes sociales.
+At this moment, I still don't consider myself fit for a job, but if you need help with any bug or want to take the initiative to contact me, I will leave my social media below.
 
 <div style="display: flex; justify-content: center; align-items: flex-end; column-gap: 3px">
   
@@ -39,7 +39,7 @@ En este momento aun no me considero acto para un empleo, pero si necesitan ayuda
 
 </div>
 
-<h2>📊&nbsp;Estadisticas</h2>
+<h2>📊&nbsp;Statistics</h2>
 <div style="display: flex; justify-content: center; align-items: flex-end; column-gap: 3px;">
 <a href="https://github.com/EdGonzz">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EdGonzz&show_icons=true&theme=dracula" />
