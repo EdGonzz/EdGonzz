@@ -7,7 +7,7 @@
 [![Followers](https://img.shields.io/github/followers/EdGonzz?label=Follow&logo=github&style=flat&color=blueviolet)]()
 [![GitHub User's Stars](https://img.shields.io/github/stars/EdGonzz?label=%E2%AD%90GitHub%20Stars&style=flat&logo=github&color=blueviolet)]()
 [![Profile Views](https://komarev.com/ghpvc/?username=EdGonzz&style=flat&color=blueviolet&label=Profile_Views)]()
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Edwin_Contreras-1bb516247?style=flat&logo=linkedin&logoColor=white&color=blueviolet)](https://www.linkedin.com/in/edwin-contreras-1bb516247/)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-edwin-jose-contreras-gonzalez-1bb516247?style=flat&logo=linkedin&logoColor=white&color=blueviolet)](https://www.linkedin.com/in/edwin-contreras-1bb516247/)
 [![Twitter Follow](https://img.shields.io/badge/Follow_Me-Ed_Gonzz_?style=flat&logo=x&color=blueviolet&label=@Ed_Gonzz_)](https://twitter.com/Ed_Gonzz_)
 
 </div>
